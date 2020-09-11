@@ -4,12 +4,12 @@
     font-family: Arial, Helvetica, sans-serif ;
 }
 
-/* header{
+header{
     background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/resources/img/pexels-poranimm-athithawatthee-842401.jpg);
     height: 100vh;
     background-size: cover;
     background-position: center;
-} */
+}
 ul{
     float: right;
     list-style-type: none;
