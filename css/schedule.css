@@ -114,9 +114,10 @@
     font-size: 1.6rem;
     font-family: "Source Sans Pro", sans-serif;
     color: white;
-    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('/resources/img/pexels-jimmy-chan-3790394.jpg') ;
+    /* background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('/resources/img/pexels-jimmy-chan-3790394.jpg') ;
      background-repeat: repeat no-repeat;
-    background-size: cover; }
+    background-size: cover;  */
+  }
     
   
   
